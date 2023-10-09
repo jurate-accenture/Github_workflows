@@ -1,4 +1,4 @@
-# Define Terraform provider
+# Define Terraform provider ..
 terraform {
   required_version = ">= 1.3"
   backend "azurerm" {
